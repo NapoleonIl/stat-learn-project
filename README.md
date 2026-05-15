@@ -7,9 +7,7 @@ Statistical learning project for Subject 4: predicting the critical temperature 
 - Xiaopeng Zhang
 - Marçal Herraiz Bayó
 - Shuaibo HUANG
-- Carlos Cosentino
-- Polina Ptukha
-- Lyes Bouchoucha
+
 
 ## Project Layout
 
